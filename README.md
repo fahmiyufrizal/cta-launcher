@@ -12,7 +12,6 @@ https://www.crosstheages.com/
 2. Jalankan portable, maka dia akan melakukan auto-initialize atau auto-unload
 3. Install gamenya (bagi yang belum menginstall) atau jalankan gamenya menggunakan portable (bagi yang sudah)
 
-
 ## Special Note :
 - Jika sudah menginstall, melakukan unload, tapi gamenya blank/launcher tidak mau terbuka, tinggal buka installernya lagi sekali
 Link : https://github.com/fahmiyu.../cta-launcher/releases/tag/v1.2
