@@ -4,8 +4,8 @@
 https://www.crosstheages.com/
 
 ## Fitur :
-[+] Auto-Initialize dan Auto-Unload (tergantung, kalau belum diinstall dia masuknya ke auto-initialize, lebih disarankan)
-[+] Auto Inject Registry
+- Auto-Initialize dan Auto-Unload (tergantung, kalau belum diinstall dia masuknya ke auto-initialize, lebih disarankan)
+- Auto Inject Registry
 
 ## Cara Pakai :
 1. Buat Folder "Cross The Ages" di dalam gamedisk
